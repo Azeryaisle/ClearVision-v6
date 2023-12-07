@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.2); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(<a href='https://moewalls.com/anime/elaina-moonlight-flower-live-wallpaper/' target='_blank'><img src='https://moewalls.com/wp-content/uploads/2023/10/elaina-moonlight-flower-thumb-728x410.jpg' title='Elaina Moonlight Flower Live Wallpaper'></a>); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://moewalls.com/anime/elaina-moonlight-flower-live-wallpaper/' target='_blank'><img src='https://moewalls.com/wp-content/uploads/2023/10/elaina-moonlight-flower-thumb-728x410.jpg' title='Elaina Moonlight Flower Live Wallpaper'></a>); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
