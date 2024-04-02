@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.2); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://images-ext-1.discordapp.net/external/bz_3reFqFP4hIii4YNKkwIlbh62643rF9M9SFjbKDMc/https/media.tenor.com/l22aMnkPFO0AAAPo/hokki.mp4); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://media.discordapp.net/attachments/1188507649474564128/1224726094306082816/hokki.gif?ex=661e8a0f&is=660c150f&hm=e7555e5a99b128ecb7dd2ef1497db088055f685d3490bfc45ee54313bc707dec&=&width=747&height=423); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
